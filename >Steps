@@ -1,4 +1,4 @@
- просмотр видео "Написание Телеграм бота на Python" https://www.youtube.com/watch?v=S6HVz4p9W3I
+просмотр видео "Написание Телеграм бота на Python" https://www.youtube.com/watch?v=S6HVz4p9W3I
 на базовом уровне поработал с библиотекой requests
 научился работать с виртуальным окружением внутри Pycharm, в том числе используя пакет dotenv
 написал элементарного телеграм бота на основе pyTelegramBotAPI
@@ -12,3 +12,4 @@
 просмотрел видео по парсингу https://www.youtube.com/watch?v=ks64MvZJe0w
 оптимизировал trading_assistant_v1.4
 покорпел над отработкой исключений trading_assistant_v1.4
+значительно обновил код своей программы
