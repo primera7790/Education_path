@@ -126,3 +126,4 @@
 переписал программу под Django
 освоение библитоки celery
 внедрение Celery в Django-проект
+настройка celery через rabbitmq
