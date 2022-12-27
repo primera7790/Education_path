@@ -128,3 +128,4 @@
 внедрение Celery в Django-проект
 настройка celery через rabbitmq
 освоение aiogram
+добавил в тест команды git, поробовал внедрить schedular в программу
