@@ -1,4 +1,4 @@
 # global knowledge
 List of mastered blocks of information.
 # Steps
-Steps on the way to assimilating large blocks of information.
+The steps I have taken on the road to assimilating large blocks of information.
